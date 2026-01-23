@@ -1,6 +1,6 @@
 # Addis Alem Reise Adbarat Wegedamat Debre Tsion Mariam Church Website
 
-A responsive, informative landing page dedicated to the historic **Addis Alem Mariam Church** in Ethiopia. This project showcases the spiritual legacy, architectural beauty, and historical significance of the site established by Emperor Menelik II.
+An informative landing page dedicated to the historic **Addis Alem Mariam Church** in Ethiopia. This project showcases the spiritual legacy, architectural beauty, and historical significance of the site established by Emperor Menelik II.
 
 ## 🌟 Overview
 
@@ -48,4 +48,4 @@ This website serves as a digital gateway for pilgrims, historians, and travelers
 
 Fiteh Tesfaye
 
-Author/Developer of the Addis Alem Church digital showcase.
+Developer of the Addis Alem Church digital showcase.
