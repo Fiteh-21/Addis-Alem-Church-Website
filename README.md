@@ -44,7 +44,7 @@ This website serves as a digital gateway for pilgrims, historians, and travelers
 
 3. Open the project: Open index.html in any web browser to view the site.
 
-##👤 Author
+👤 Author
 
 Fiteh Tesfaye
 
