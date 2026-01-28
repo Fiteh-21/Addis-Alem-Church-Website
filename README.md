@@ -31,7 +31,7 @@ This website serves as a digital gateway for pilgrims, historians, and travelers
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/addis-alem-church-site.git](https://github.com/YOUR_USERNAME/addis-alem-church-site.git)
+   git clone [https://github.com/Fiteh-21/addis-alem-church-site.git](https://github.com/Fiteh-21/addis-alem-church-site.git)
 
    ```
 
